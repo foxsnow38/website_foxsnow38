@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://maktavbilisim.com/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "loveit"
