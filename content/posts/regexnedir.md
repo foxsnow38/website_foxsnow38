@@ -1,7 +1,7 @@
 +++
 author = "Fox"
 title = "Regex Nedir"
-date = "2021-11-15"
+date = "2022-08-15"
 description = "Regex Nedir ? Nasıl Kullanılır ?"
 tags = [
     "react",  "nodejs",  "netlify","arcticle","turkish"
