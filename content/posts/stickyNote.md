@@ -1,8 +1,8 @@
 +++
 author = "Fox"
-title = "Fake Tweet Generator"
+title = "StickyNotes
 date = "2022-01-15"
-description = "Make Fake Tweets"
+description = "You can stick to note "
 tags = [
     "react",  "nodejs",  "netlify",
 ]
