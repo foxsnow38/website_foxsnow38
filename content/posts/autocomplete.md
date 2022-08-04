@@ -7,6 +7,9 @@ tags = [
     "react",  "nodejs",  "netlify",
 ]
 
+categories=[
+   "miniProejcts"
+]
 +++
 <!--more-->
 <div class="preview"><div class="preview__inner-1"><div class="preview__inner-2" style="padding: 10px 25px 448px;"><div class="cl-preview-section"><h1 id="spend-money-app">Spend Money App</h1>

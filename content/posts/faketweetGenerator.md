@@ -6,6 +6,9 @@ description = "Make Fake Tweets"
 tags = [
     "react",  "nodejs",  "netlify",
 ]
+categories=[
+   "miniProejcts"
+]
 
 +++
 <!--more-->
